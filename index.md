@@ -21,11 +21,11 @@ github:
 
 ### YD Huang
  
-(%Y%D%H...? NOOOOO..just from chinese name '尹笛')
+&nbsp;&nbsp;%Y%d%h...'尹笛,黃'
 
 ### BS: Psychology
 
-### MS: Cognitive psychometrics
+### MS: Cognitive Psychometrics
 
 --- &vcenter
 
